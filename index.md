@@ -19,7 +19,7 @@ title: Silent Wildlife UAV | MEC 482
 | Mansour Khalid Alnaqbi | 1086214@students.adu.ac.ae |
 | Shamma Nasser | 1088805@students.adu.ac.ae |
 | Alyazia Mohamed Alshehhi | 1090139@students.adu.ac.ae |
-| Salim Mohamed Alkathiri | To be confirmed |
+| Salim Mohamed Alkathiri | 1081901@students.adu.ac.ae |
 
 **Project supervisor and course professor:** Dr. Claudio Vignola  
 **Institution:** Abu Dhabi University, United Arab Emirates
