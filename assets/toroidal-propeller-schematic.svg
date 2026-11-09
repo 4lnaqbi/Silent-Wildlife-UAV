@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 525" role="img" aria-label="Original simplified schematic of a two-loop toroidal propeller">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1b29"/><stop offset="1" stop-color="#173948"/></linearGradient>
+  <linearGradient id="blade" x2="1" y2="1"><stop stop-color="#9fe0df"/><stop offset="0.58" stop-color="#43a6b6"/><stop offset="1" stop-color="#187484"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#05121a" flood-opacity="0.65"/></filter>
+</defs>
+<rect width="960" height="525" rx="20" fill="url(#bg)"/>
+<g opacity=".17" stroke="#c3eeee" stroke-width="1"><path d="M0 105H960 M0 210H960 M0 315H960 M0 420H960 M120 0V525 M240 0V525 M360 0V525 M480 0V525 M600 0V525 M720 0V525 M840 0V525"/></g>
+<text x="56" y="67" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="29" fill="#f3ffff">Two-loop toroidal propeller</text>
+<text x="56" y="100" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#b5dbde">Original conceptual diagram • top-view approximation • not to scale</text>
+<g filter="url(#shadow)" transform="translate(480,294)">
+ <g transform="rotate(42)"><path d="M-20 -18 C-78 -83 -132 -164 -106 -203 C-82 -240 -21 -190 18 -114 C47 -52 48 -17 20 18 C7 23 -7 23 -20 18 C-35 -28 -57 -89 -70 -139 C-82 -184 -65 -190 -51 -171 C-8 -117 3 -73 20 -18 Z" fill="url(#blade)" fill-rule="evenodd" stroke="#c0f8f2" stroke-width="4"/></g>
+ <g transform="rotate(222)"><path d="M-20 -18 C-78 -83 -132 -164 -106 -203 C-82 -240 -21 -190 18 -114 C47 -52 48 -17 20 18 C7 23 -7 23 -20 18 C-35 -28 -57 -89 -70 -139 C-82 -184 -65 -190 -51 -171 C-8 -117 3 -73 20 -18 Z" fill="url(#blade)" fill-rule="evenodd" stroke="#c0f8f2" stroke-width="4"/></g>
+ <circle r="44" fill="#2b6474" stroke="#c7f7f2" stroke-width="5"/><circle r="19" fill="#0b2330" stroke="#7dd8d7" stroke-width="5"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#d8f3f1"><path d="M625 226 L778 184" stroke="#77ded1" stroke-width="2" fill="none"/><circle cx="625" cy="226" r="5" fill="#77ded1"/><text x="785" y="181" font-weight="700">Closed-loop</text><text x="785" y="202">blade concept</text></g>
+<text x="55" y="478" font-size="16" fill="#9fc8cb" font-family="Arial,Helvetica,sans-serif">Schematic only — manufacture and thrust/noise testing pending</text>
+</svg>
